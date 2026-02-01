@@ -1,3 +1,4 @@
+Casa los 3 Hermanos Palomino
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -17,7 +18,7 @@
 <body>
 
 <header>
-  <h1>Arena San Jeronimo</h1>
+  <h1>Casa los 3 Hermanos Palomino</h1>
   <p>Suministro y entrega de arena para construccion</p>
 </header>
 
@@ -43,9 +44,9 @@
 <section>
   <h2>Por que elegirnos?</h2>
   <ul>
-    <li> Entrega puntual</li>
-    <li> Arena limpia y de buena calidad</li>
-    <li> Trato directo y precio justo</li>
+    <li>☑ Entrega puntual</li>
+    <li>☑ Arena limpia y de buena calidad</li>
+    <li>☑ Trato directo y precio justo</li>
   </ul>
 </section>
 
