@@ -1,3 +1,4 @@
+Venta Arena para Construccion- Entrega Rapidas
 Casa los 3 Hermanos Palomino
 <!DOCTYPE html>
 <html lang="es">
@@ -50,14 +51,30 @@ Casa los 3 Hermanos Palomino
   </ul>
 </section>
 
+<section>
+  <h2>Precios fijos</h2>
+  <ul>
+    <li>Arena fina $700 por m3</li>
+    <li>Arena gruesa: $500 por m3</li>
+    <li>Granson: $400 por m3</li>
+    <li>Grava mix: $600 por m3</li>
+  </ul>
+  <h2>Contizamos rapido</h2>
+  <ul>
+    <li>"EL precio depende de la zona.<strong> Escribenos por WhatsApp
+    </strong> y te cotizamos al instante."</li>
+  </ul>
+</section>
+
 <section class="contacto">
   <h2>Contacto</h2>
   <p><strong>Telefono / WhatsApp:</strong>52-492-215-43-88</p>
   <p><strong>Zona:</strong>San Jeronimo, Zacatecas</p>
-  <a class="btn" href="https://wa.me/524922154388">Contactanos por WhatsApp</a>
+  <a class="btn" href="https://wa.me/524922154388" style="background:#25D366; padding:10px 20px; color:write; border-radius:8px; text-decoration:none; font-decoration:none; font-weight:bold;">Contactanos por WhatsApp</a>
 </section>
 
 <footer>
+  <p>Arena fina y gruesa • Volumenes exactos • Servicio confiables</p>
   <p>© 2026 Arena San Jeronimo • Servicio local</p>
 </footer>
 
